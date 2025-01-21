@@ -1,0 +1,3 @@
+[submodule "zh-cn"]
+	path = zh-cn
+	url = https://github.com/trans-archive/transky

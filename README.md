@@ -6,9 +6,9 @@ A story of a transgender person in the 2000s.
 Monotonous scenery, shadows of varying lengths. A road with no companion, a dance that is confused and elusive.
 
 ## About this repo
-This is an English version of novel "The Sky of a Trans Girl" (药娘的天空, Yàoniáng de tiānkōng) by Luanshi Yin Niang (乱世银娘), translated with [Google Gemini](https://gemini.google.com/)
+This is an English version of novel "The Sky of a Trans Girl" ([药娘的天空](https://github.com/trans-archive/transky), Yàoniáng de tiānkōng) by Luanshi Yin Niang (乱世银娘), translated with [Google Gemini](https://gemini.google.com/)
 
-"药娘" (yàoniáng) is a Chinese slang for transgender woman who is taking [HRT](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy).
+"药娘" (yàoniáng) is a Chinese slang for [transgender women](https://en.wikipedia.org/wiki/Transgender_women) who is taking [HRT](https://en.wikipedia.org/wiki/Feminizing_hormone_therapy).
 
 ## Disclaimer
 Do not use drugs according to the content of this book. If you have medical needs, please consult a regular medical institution.
